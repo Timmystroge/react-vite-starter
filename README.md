@@ -21,7 +21,7 @@ To get started with this template, follow these simple steps:
 
 ```bash
   git clone https://github.com/Timmystroge/react-vite-starter my-new-project
-  cd my-project
+  cd my-new-project
   
 ```
 ### 2. Install Dependencies:
