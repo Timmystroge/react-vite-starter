@@ -20,7 +20,7 @@ To get started with this template, follow these simple steps:
 ### 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/your-username/your-repo-name.git my-new-project
+  git clone https://github.com/Timmystroge/react-vite-starter my-new-project
   cd my-project
   
 ```
